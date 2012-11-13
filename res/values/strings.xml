@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MyMonkey</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_monkey">さる</string>
+    <string name="title_activity_next">とり</string>
+
+</resources>
